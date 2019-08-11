@@ -52,8 +52,8 @@ REQUEST_URL = 'http://madal.com/internet-retailer-products/'
 
 
 payload = {
-    "login_email": "patrick@drcommerceshop.com",
-    "login_pass": "mynameismypassword1"
+    "login_email": "email",
+    "login_pass": "password"
 }
 
 
